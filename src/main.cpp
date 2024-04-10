@@ -7,8 +7,8 @@
 /*                                                                            */
 /*    Name: Helldiver 2342352435   a;kdsjfljsa;ljflsjea'fjjsafljsaelkjflksajfajsfeja;lsjef;li                                                               */
 /*    Date    4/20/69                                                                */
-/*    Class:   Mars helldiver training                                                               */
-/*                                                                            */
+/*    Class:   Mars helldiver training           jlkjlkjlkjlj                                                    */
+/*                                          mg;sagksg'd'gdlkfg'l                                  */
 /*----------------------------------------------------------------------------*/
 
 // ---- START VEXCODE CONFIGURED DEVICES ----

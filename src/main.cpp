@@ -5,9 +5,9 @@
 /*    Created:      Wed Sep 25 2019                                           */
 /*    Description:  Clawbot (Drivetrain) - Template                           */
 /*                                                                            */
-/*    Name: Helldiver 2342352435   this is really really really really not cool                                                               */
-/*    Date    4/20/69               nice                                                 */
-/*    Class:   Mars helldiver training     womp womp                                                          */
+/*    Name: Helldiver 2342352435                                                                  */
+/*    Date    4/20/69                                                                */
+/*    Class:   Mars helldiver training                                                               */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
